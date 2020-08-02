@@ -1,7 +1,5 @@
-Delilah Resto - Backend API REST 
-
-Acámica's Third Fullstack Project
-
+Delilah Resto 
+Acamica
 Author: Gastón Medici
 
 Instructions for initializing the API 
